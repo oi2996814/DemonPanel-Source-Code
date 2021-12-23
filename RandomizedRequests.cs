@@ -34,7 +34,7 @@ namespace Demon_Panel.Injector.Random
                 int maxx2 = Convert.ToInt32(MaxValue.Value);
                 System.Random rand = new System.Random();
                 string content2 = Regex.Replace(input2, Regex.Escape(",600\""), (Match m) => $",{rand.Next(mini, maxx2)}\"");
-                if ((InjectorRequestsDADDY.Injector.Dump_FullProfile() != null) & InjectorRequestsDADDY.Injector.Inject_FullProfile(SaveFile.EncryptSavefile(content2)))
+                if ((InjectorRequests.Injector.Dump_FullProfile() != null) & InjectorRequests.Injector.Inject_FullProfile(SaveFile.EncryptSavefile(content2)))
                 {
                     Login.KeyAuthApp.UpdateInjects();
                     SystemSounds.Asterisk.Play();
@@ -51,7 +51,7 @@ namespace Demon_Panel.Injector.Random
                 int maxx2 = Convert.ToInt32(MaxValue.Value);
                 System.Random rand = new System.Random();
                 string content2 = Regex.Replace(input2, Regex.Escape(",600\""), (Match m) => $",{rand.Next(mini, maxx2)}\"");
-                if ((InjectorRequestsDADDY.Injector.Dump_FullProfile() != null) & InjectorRequestsDADDY.Injector.Inject_FullProfile(SaveFile.EncryptSavefile(content2)))
+                if ((InjectorRequests.Injector.Dump_FullProfile() != null) & InjectorRequests.Injector.Inject_FullProfile(SaveFile.EncryptSavefile(content2)))
                 {
                     Login.KeyAuthApp.UpdateInjects();
                     SystemSounds.Asterisk.Play();

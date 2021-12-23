@@ -103,7 +103,7 @@
       <DependentUpon>BHVRSession.cs</DependentUpon>
     </Compile>
     <Compile Include="General\Utils.cs" />
-    <Compile Include="InjectorRequestsDADDY.cs" />
+    <Compile Include="InjectorRequests.cs" />
     <Compile Include="Injectorrr.cs">
       <SubType>Form</SubType>
     </Compile>

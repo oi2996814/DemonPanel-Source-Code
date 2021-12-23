@@ -40,7 +40,7 @@
             this.siticoneControlBox2 = new Siticone.UI.WinForms.SiticoneControlBox();
             this.siticoneControlBox1 = new Siticone.UI.WinForms.SiticoneControlBox();
             this.guna2ImageRadioButton1 = new Guna.UI2.WinForms.Guna2ImageRadioButton();
-            this.FormsMakeMeHorny123 = new Guna.UI2.WinForms.Guna2Panel();
+            this.PanelLoad = new Guna.UI2.WinForms.Guna2Panel();
             this.siticoneTransparentDrag1 = new Siticone.UI.WinForms.SiticoneTransparentDrag();
             this.siticonePanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
@@ -255,14 +255,14 @@
             this.guna2ImageRadioButton1.TabIndex = 0;
             this.guna2ImageRadioButton1.CheckedChanged += new System.EventHandler(this.guna2ImageRadioButton1_CheckedChanged);
             // 
-            // FormsMakeMeHorny123
+            // PanelLoad
             // 
-            this.FormsMakeMeHorny123.Location = new System.Drawing.Point(239, 49);
-            this.FormsMakeMeHorny123.Name = "FormsMakeMeHorny123";
-            this.FormsMakeMeHorny123.ShadowDecoration.Parent = this.FormsMakeMeHorny123;
-            this.FormsMakeMeHorny123.Size = new System.Drawing.Size(749, 651);
-            this.FormsMakeMeHorny123.TabIndex = 2;
-            this.FormsMakeMeHorny123.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel1_Paint);
+            this.PanelLoad.Location = new System.Drawing.Point(239, 49);
+            this.PanelLoad.Name = "PanelLoad";
+            this.PanelLoad.ShadowDecoration.Parent = this.PanelLoad;
+            this.PanelLoad.Size = new System.Drawing.Size(749, 651);
+            this.PanelLoad.TabIndex = 2;
+            this.PanelLoad.Paint += new System.Windows.Forms.PaintEventHandler(this.guna2Panel1_Paint);
             // 
             // siticoneTransparentDrag1
             // 
@@ -276,7 +276,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(20)))), ((int)(((byte)(20)))));
             this.ClientSize = new System.Drawing.Size(986, 699);
-            this.Controls.Add(this.FormsMakeMeHorny123);
+            this.Controls.Add(this.PanelLoad);
             this.Controls.Add(this.Top);
             this.Controls.Add(this.siticonePanel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -296,7 +296,7 @@
         private Siticone.UI.WinForms.SiticonePanel Top;
         private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox1;
         private Guna.UI2.WinForms.Guna2ImageRadioButton guna2ImageRadioButton1;
-        private Guna.UI2.WinForms.Guna2Panel FormsMakeMeHorny123;
+        private Guna.UI2.WinForms.Guna2Panel PanelLoad;
         private Siticone.UI.WinForms.SiticoneControlBox siticoneControlBox2;
         private Siticone.UI.WinForms.SiticoneControlBox siticoneControlBox1;
         private Siticone.UI.WinForms.SiticoneButton siticoneButton2;

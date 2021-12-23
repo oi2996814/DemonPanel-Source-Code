@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace Demon_Panel
 {
-	internal class InjectorRequestsDADDY
+	internal class InjectorRequests
 	{
 		internal class Injector
 		{

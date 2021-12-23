@@ -74,41 +74,41 @@ namespace Demon_Panel
                 siticoneButton2.PerformClick();
                 return;
             }
-            FormsMakeMeHorny123.Controls.Clear();
+            PanelLoad.Controls.Clear();
             Injector.Inject bhvrisgay = new Injector.Inject();
             bhvrisgay.TopLevel = false;
             bhvrisgay.AutoScroll = true;
-            FormsMakeMeHorny123.Controls.Add(bhvrisgay);
+            PanelLoad.Controls.Add(bhvrisgay);
             bhvrisgay.Show();
         }
 
         private void siticoneButton2_Click(object sender, EventArgs e)
         {
-            FormsMakeMeHorny123.Controls.Clear();
+            PanelLoad.Controls.Clear();
             BHVRSession bhvrisgay = new BHVRSession();
             bhvrisgay.TopLevel = false;
             bhvrisgay.AutoScroll = true;
-            FormsMakeMeHorny123.Controls.Add(bhvrisgay);
+            PanelLoad.Controls.Add(bhvrisgay);
             bhvrisgay.Show();
         }
 
         private void siticoneButton4_Click(object sender, EventArgs e)
         {
-            FormsMakeMeHorny123.Controls.Clear();
+            PanelLoad.Controls.Clear();
             Spoofer.Spoofer bhvrisgay = new Spoofer.Spoofer();
             bhvrisgay.TopLevel = false;
             bhvrisgay.AutoScroll = true;
-            FormsMakeMeHorny123.Controls.Add(bhvrisgay);
+            PanelLoad.Controls.Add(bhvrisgay);
             bhvrisgay.Show();
         }
 
         private void siticoneButton5_Click(object sender, EventArgs e)
         {
-            FormsMakeMeHorny123.Controls.Clear();
+            PanelLoad.Controls.Clear();
             Unlocker bhvrisgay = new Unlocker();
             bhvrisgay.TopLevel = false;
             bhvrisgay.AutoScroll = true;
-            FormsMakeMeHorny123.Controls.Add(bhvrisgay);
+            PanelLoad.Controls.Add(bhvrisgay);
             bhvrisgay.Show();
         }
     }

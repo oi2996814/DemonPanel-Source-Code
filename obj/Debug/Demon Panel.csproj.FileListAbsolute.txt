@@ -51,3 +51,30 @@ D:\Projects\Demon Panel\obj\Debug\Demon_Panel.Spoofer.Spoofer.resources
 D:\Projects\Demon Panel\obj\Debug\Demon Panel.csproj.SuggestedBindingRedirects.cache
 D:\Projects\Demon Panel\bin\Debug\Newtonsoft.Json.dll
 D:\Projects\Demon Panel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon Panel.csproj.AssemblyReference.cache
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon Panel.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon_Panel.Spoofer.Spoofer.resources
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon_Panel.Injector.Inject.resources
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon_Panel.BHVRSession.resources
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon_Panel.Injectorrr.resources
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon_Panel.Login.resources
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon_Panel.Main.resources
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon_Panel.Properties.Resources.resources
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon_Panel.Settings.resources
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon_Panel.Injector.Random.RandomizedItems.resources
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon_Panel.SimpleInjector.resources
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon_Panel.Unlocker.resources
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon Panel.csproj.GenerateResource.cache
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon Panel.csproj.CoreCompileInputs.cache
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon Panel.exe
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon Panel.pdb
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\bin\Debug\Demon Panel.exe.config
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\bin\Debug\Demon Panel.exe
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\bin\Debug\Demon Panel.pdb
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\bin\Debug\Ismail.Backdrop.dll
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\bin\Debug\Ismail.Backdrop.pdb
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SHOCK\Source\Repos\DemonPanel-Source-Code\obj\Debug\Demon Panel.csproj.CopyComplete

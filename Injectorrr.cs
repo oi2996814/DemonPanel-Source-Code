@@ -33,7 +33,7 @@ namespace Demon_Panel
             {
                 return;
             }
-            string text = InjectorRequestsDADDY.Injector.Dump_FullProfile();
+            string text = InjectorRequests.Injector.Dump_FullProfile();
             File.WriteAllText(saveFileDialog.FileName, JsonHelper.FormatJson(SaveFile.DecryptSavefile(text)));
         }
 
@@ -56,7 +56,7 @@ namespace Demon_Panel
         private void siticoneRoundedButton2_Click(object sender, EventArgs e)
         {
             string content = new WebClient().DownloadString("https://cdn.discordapp.com/attachments/891068941697441872/893884252997943386/Decrypted_Save_File_backup.txt");
-            if ((InjectorRequestsDADDY.Injector.Dump_FullProfile() != null) & InjectorRequestsDADDY.Injector.Inject_FullProfile(SaveFile.EncryptSavefile(content)))
+            if ((InjectorRequests.Injector.Dump_FullProfile() != null) & InjectorRequests.Injector.Inject_FullProfile(SaveFile.EncryptSavefile(content)))
             {
                 Login.KeyAuthApp.UpdateInjects();
                 SystemSounds.Asterisk.Play();
@@ -76,7 +76,7 @@ namespace Demon_Panel
             openFileDialog.FileName = "SaveFile";
             if (openFileDialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
-                if ((InjectorRequestsDADDY.Injector.Dump_FullProfile() != null) & InjectorRequestsDADDY.Injector.Inject_FullProfile(SaveFile.EncryptSavefile(File.ReadAllText(openFileDialog.FileName))))
+                if ((InjectorRequests.Injector.Dump_FullProfile() != null) & InjectorRequests.Injector.Inject_FullProfile(SaveFile.EncryptSavefile(File.ReadAllText(openFileDialog.FileName))))
                 {
                     Login.KeyAuthApp.UpdateInjects();
                     SystemSounds.Asterisk.Play();
